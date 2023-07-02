@@ -1,5 +1,6 @@
-# RMI-HACKATHON-2019
-
+<a>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=50&duration=2000&pause=500&multiline=true&width=500&height=80&lines=RMI+HACKATHON+2019" alt="Typing SVG" />
+</a>'
 Demonstration Video Link: https://youtu.be/gqbGvLyGlcc
 
 This project was completed as a part of the inductions for the RMI Club, which is the Robotics research and development club of NITT. Our task was to design and build an elevator mechanism using a limited number of components.
